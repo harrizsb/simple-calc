@@ -1,0 +1,26 @@
+.button {
+  background-color: #def3f4;
+  text-transform: uppercase;
+  text-align: center;
+  padding: 10px 0;
+  border-radius: 20px;
+  width: 100%;
+  cursor: pointer;
+  color: #333;
+  font-size: 16px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+
+  &__light_text {
+    font-weight: 300;
+  }
+
+  &__letter_spacing {
+    letter-spacing: 3px;
+  }
+
+  &__operand {
+    background-color: #fcf3d8;
+  }
+}

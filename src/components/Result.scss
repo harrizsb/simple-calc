@@ -1,0 +1,17 @@
+.result {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+  padding: 5px 0 10px;
+  font-size: 28px;
+  border-bottom: 1px solid #ddd;
+
+  &__value {
+    flex-grow: 1;
+    text-align: right;
+    max-width: 300px;
+    overflow: hidden;
+    text-overflow: ellipsis;
+  }
+}
