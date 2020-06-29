@@ -1,3 +1,7 @@
+[![Netlify Status](https://api.netlify.com/api/v1/badges/53288dbd-a8b1-4d07-b1fe-a6f6db4855d4/deploy-status)](https://app.netlify.com/sites/sleepy-mcclintock-208075/deploys)
+
+Try it out on netlify [https://sleepy-mcclintock-208075.netlify.app/](https://sleepy-mcclintock-208075.netlify.app/)
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
